@@ -11,6 +11,3 @@
 - pandas 라이브러리
 
 - seaborn 라이브러리
-
-## 데이터 시각화
-![image](https://github.com/y00ns/GrandChallenge_2023/assets/104632673/51d591d6-b870-4706-ab0b-e02e352839c4)
